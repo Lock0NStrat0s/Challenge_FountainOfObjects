@@ -3,13 +3,19 @@
 // Holds Coordinates
 public class Cell
 {
-    public int Row { get; }
-    public int Column { get; }
+    public int Row { get; private set; }
+    public int Column { get; private set; }
 
     public Cell(int row, int column)
     {
         Row = row;
         Column = column;
+    }
+
+    public void UpdateRow(int newRow, int newColumn)
+    {
+        Row = newRow;
+        Column = newColumn;
     }
 
     public override string ToString() => $"({Row},{Column})";
@@ -21,6 +27,7 @@ public class Grid
     public int Rows { get; }
     public int Columns { get; }
     public Cell[,] Cells { get; }
+    public FountainState Fountain { get; private set; } = FountainState.Disabled;
 
     public Grid(int rows, int columns)
     {
@@ -49,4 +56,14 @@ public class Grid
             Console.WriteLine();
         }
     }
+
+    public void EnableFountain()
+    {
+        Fountain = FountainState.Enabled;
+    }
+}
+
+public enum FountainState
+{
+    Enabled, Disabled
 }
