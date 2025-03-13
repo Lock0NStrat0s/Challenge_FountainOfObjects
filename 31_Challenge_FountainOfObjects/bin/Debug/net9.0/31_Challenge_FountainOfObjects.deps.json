@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "31_Challenge_FountainOfObjects/1.0.0": {
+        "runtime": {
+          "31_Challenge_FountainOfObjects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "31_Challenge_FountainOfObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
