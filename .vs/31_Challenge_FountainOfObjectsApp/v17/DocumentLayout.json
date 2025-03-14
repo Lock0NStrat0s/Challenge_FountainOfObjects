@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\31_Challenge_FountainOfObjectsApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BE0CB358-F20C-45E4-80FF-6B2B99ECC94B}|31_Challenge_FountainOfObjects\\31_Challenge_FountainOfObjects.csproj|c:\\users\\moham\\onedrive\\documents\\a_programming\\rb_whitaker\\2025\\31_challenge_fountainofobjectsapp\\31_challenge_fountainofobjects\\gridpieces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CB358-F20C-45E4-80FF-6B2B99ECC94B}|31_Challenge_FountainOfObjects\\31_Challenge_FountainOfObjects.csproj|solutionrelative:31_challenge_fountainofobjects\\gridpieces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE0CB358-F20C-45E4-80FF-6B2B99ECC94B}|31_Challenge_FountainOfObjects\\31_Challenge_FountainOfObjects.csproj|c:\\users\\moham\\onedrive\\documents\\a_programming\\rb_whitaker\\2025\\31_challenge_fountainofobjectsapp\\31_challenge_fountainofobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE0CB358-F20C-45E4-80FF-6B2B99ECC94B}|31_Challenge_FountainOfObjects\\31_Challenge_FountainOfObjects.csproj|solutionrelative:31_challenge_fountainofobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CB358-F20C-45E4-80FF-6B2B99ECC94B}|31_Challenge_FountainOfObjects\\31_Challenge_FountainOfObjects.csproj|c:\\users\\moham\\onedrive\\documents\\a_programming\\rb_whitaker\\2025\\31_challenge_fountainofobjectsapp\\31_challenge_fountainofobjects\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CB358-F20C-45E4-80FF-6B2B99ECC94B}|31_Challenge_FountainOfObjects\\31_Challenge_FountainOfObjects.csproj|solutionrelative:31_challenge_fountainofobjects\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE0CB358-F20C-45E4-80FF-6B2B99ECC94B}|31_Challenge_FountainOfObjects\\31_Challenge_FountainOfObjects.csproj|c:\\users\\moham\\onedrive\\documents\\a_programming\\rb_whitaker\\2025\\31_challenge_fountainofobjectsapp\\31_challenge_fountainofobjects\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{BE0CB358-F20C-45E4-80FF-6B2B99ECC94B}|31_Challenge_FountainOfObjects\\31_Challenge_FountainOfObjects.csproj|c:\\users\\moham\\onedrive\\documents\\a_programming\\rb_whitaker\\2025\\31_challenge_fountainofobjectsapp\\31_challenge_fountainofobjects\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE0CB358-F20C-45E4-80FF-6B2B99ECC94B}|31_Challenge_FountainOfObjects\\31_Challenge_FountainOfObjects.csproj|solutionrelative:31_challenge_fountainofobjects\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CB358-F20C-45E4-80FF-6B2B99ECC94B}|31_Challenge_FountainOfObjects\\31_Challenge_FountainOfObjects.csproj|c:\\users\\moham\\onedrive\\documents\\a_programming\\rb_whitaker\\2025\\31_challenge_fountainofobjectsapp\\31_challenge_fountainofobjects\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CB358-F20C-45E4-80FF-6B2B99ECC94B}|31_Challenge_FountainOfObjects\\31_Challenge_FountainOfObjects.csproj|solutionrelative:31_challenge_fountainofobjects\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,47 +46,86 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\31_Challenge_FountainOfObjectsApp\\31_Challenge_FountainOfObjects\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "31_Challenge_FountainOfObjects\\ConsoleHelper.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\31_Challenge_FountainOfObjectsApp\\31_Challenge_FountainOfObjects\\ConsoleHelper.cs",
+              "RelativeToolTip": "31_Challenge_FountainOfObjects\\ConsoleHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T23:32:47.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\31_Challenge_FountainOfObjectsApp\\31_Challenge_FountainOfObjects\\Program.cs",
               "RelativeDocumentMoniker": "31_Challenge_FountainOfObjects\\Program.cs",
               "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\31_Challenge_FountainOfObjectsApp\\31_Challenge_FountainOfObjects\\Program.cs",
               "RelativeToolTip": "31_Challenge_FountainOfObjects\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAABFwAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T08:07:00.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\31_Challenge_FountainOfObjectsApp\\31_Challenge_FountainOfObjects\\GameManager.cs",
+              "RelativeDocumentMoniker": "31_Challenge_FountainOfObjects\\GameManager.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\31_Challenge_FountainOfObjectsApp\\31_Challenge_FountainOfObjects\\GameManager.cs",
+              "RelativeToolTip": "31_Challenge_FountainOfObjects\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T23:12:20.437Z",
               "EditorCaption": ""
             }
           ]
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Cell.cs",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\31_Challenge_FountainOfObjectsApp\\31_Challenge_FountainOfObjects\\Cell.cs",
               "RelativeDocumentMoniker": "31_Challenge_FountainOfObjects\\Cell.cs",
               "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\31_Challenge_FountainOfObjectsApp\\31_Challenge_FountainOfObjects\\Cell.cs",
               "RelativeToolTip": "31_Challenge_FountainOfObjects\\Cell.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAABBwB0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T08:08:32.419Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\31_Challenge_FountainOfObjectsApp\\31_Challenge_FountainOfObjects\\Player.cs",
               "RelativeDocumentMoniker": "31_Challenge_FountainOfObjects\\Player.cs",
               "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\31_Challenge_FountainOfObjectsApp\\31_Challenge_FountainOfObjects\\Player.cs",
               "RelativeToolTip": "31_Challenge_FountainOfObjects\\Player.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAkwEkAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA4wAwAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T08:57:07.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GridPieces.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\31_Challenge_FountainOfObjectsApp\\31_Challenge_FountainOfObjects\\GridPieces.cs",
+              "RelativeDocumentMoniker": "31_Challenge_FountainOfObjects\\GridPieces.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\31_Challenge_FountainOfObjectsApp\\31_Challenge_FountainOfObjects\\GridPieces.cs",
+              "RelativeToolTip": "31_Challenge_FountainOfObjects\\GridPieces.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAABFwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T23:53:24.747Z",
               "EditorCaption": ""
             }
           ]

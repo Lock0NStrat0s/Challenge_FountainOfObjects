@@ -1,7 +1,7 @@
 ﻿namespace _31_Challenge_FountainOfObjects;
 
 // Holds Coordinates
-public class Cell
+class Cell
 {
     public int Row { get; private set; }
     public int Column { get; private set; }
@@ -22,15 +22,17 @@ public class Cell
 }
 
 // Setup 2D array of Cells
-public class Grid
+class Grid
 {
     public int Rows { get; }
     public int Columns { get; }
     public Cell[,] Cells { get; }
+    public List<GridPiece> GridPieces { get; } = new();
     public FountainState Fountain { get; private set; } = FountainState.Disabled;
 
     public Grid(int rows, int columns)
     {
+        // Create grid
         Rows = rows;
         Columns = columns;
         Cells = new Cell[Rows, Columns];
@@ -42,6 +44,11 @@ public class Grid
                 Cells[row, col] = new Cell(row, col);
             }
         }
+
+        // Create grid pieces
+        GridPieces.Add(new Entrance());
+        GridPieces.Add(new Fountain());
+
     }
 
     public void Display()
@@ -63,7 +70,7 @@ public class Grid
     }
 }
 
-public enum FountainState
+enum FountainState
 {
     Enabled, Disabled
 }
